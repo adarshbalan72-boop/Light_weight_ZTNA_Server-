@@ -1,0 +1,594 @@
+2026-06-13 03:11:16.208757 127.0.0.1 new request no UID userdata recived 
+2026-06-13 03:11:16.212699 127.0.0.1 assign uid c4393d04-09ea-4cc0-a015-3eade044d834 request added to the config file 
+2026-06-13 03:11:16.257204 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 user request for status update and current statuspending 
+2026-06-13 03:11:26.280698 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 user request for status update and current statuspending 
+2026-06-13 03:11:36.299768 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 user request for status update and current statuspending 
+2026-06-13 03:11:46.324319 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 user request for status update and current statuspending 
+2026-06-13 03:11:56.345706 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 user request for status update and current statuspending 
+2026-06-13 03:12:06.366146 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 user request for status update and current statusregistered 
+2026-06-13 03:12:23.906140 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-13 03:12:23.924887 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'approved', 'reason': []} 
+2026-06-13 03:12:36.603126 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat received 
+2026-06-13 03:12:36.605692 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat updated 
+2026-06-13 03:13:36.628728 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat received 
+2026-06-13 03:13:36.631026 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat updated 
+2026-06-13 03:14:36.664788 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat received 
+2026-06-13 03:14:36.666106 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat updated 
+2026-06-13 04:37:01.684033 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 device access has been revoked and change change to status to offline 
+2026-06-14 00:54:20.511831 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 00:55:11.783183 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 00:55:11.804229 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': []} 
+2026-06-14 00:55:38.070242 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 00:55:38.091213 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': []} 
+2026-06-14 00:56:05.753091 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 00:56:05.777137 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': []} 
+2026-06-14 00:56:33.251264 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 00:56:33.275316 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': []} 
+2026-06-14 00:57:14.798971 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 00:57:14.830536 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': []} 
+2026-06-14 00:57:40.976647 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 00:57:40.998938 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': []} 
+2026-06-14 01:00:35.058890 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 01:00:35.089511 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': []} 
+2026-06-14 01:01:19.823292 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 01:01:19.847345 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'approved', 'reason': []} 
+2026-06-14 01:01:51.818530 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 01:01:51.838142 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'approved', 'reason': []} 
+2026-06-14 01:02:04.406138 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat received 
+2026-06-14 01:02:04.407550 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat updated 
+2026-06-14 01:03:04.416415 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat received 
+2026-06-14 01:03:04.418039 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat updated 
+2026-06-14 01:04:04.437082 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat received 
+2026-06-14 01:04:04.439055 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat updated 
+2026-06-14 01:05:04.457486 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat received 
+2026-06-14 01:05:04.460339 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat updated 
+2026-06-14 01:06:55.932339 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 01:06:55.951697 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'approved', 'reason': []} 
+2026-06-14 01:07:08.830991 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat received 
+2026-06-14 01:07:08.833355 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat updated 
+2026-06-14 01:08:08.851164 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat received 
+2026-06-14 01:08:08.853153 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat updated 
+2026-06-14 22:12:30.148219 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 22:12:30.552312 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'approved', 'reason': []} 
+2026-06-14 22:14:19.525754 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 22:14:20.707790 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'approved', 'reason': []} 
+2026-06-14 22:14:33.136214 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat received 
+2026-06-14 22:14:33.137737 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat updated 
+2026-06-14 22:15:40.178739 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 22:15:40.718554 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'approved', 'reason': ['os not accepted, ']} 
+2026-06-14 22:17:07.267622 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 22:17:07.686432 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'approved', 'reason': ['os not accepted, ']} 
+2026-06-14 22:17:20.192649 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat received 
+2026-06-14 22:17:20.194706 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat updated 
+2026-06-14 22:21:08.777392 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 22:21:09.166952 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': []} 
+2026-06-14 22:22:38.942170 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 22:22:39.348819 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': []} 
+2026-06-14 22:23:21.912387 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 22:23:22.300602 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': []} 
+2026-06-14 22:23:47.113067 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 22:23:47.445355 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': []} 
+2026-06-14 22:25:50.657193 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 22:25:51.174408 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'approved', 'reason': []} 
+2026-06-14 22:26:27.037946 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 22:26:27.428606 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': ['os not accepted, ']} 
+2026-06-14 22:26:51.479368 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 22:26:51.824155 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': ['os not accepted, ']} 
+2026-06-14 22:28:01.089425 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 22:28:01.509490 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'approved', 'reason': []} 
+2026-06-14 22:28:13.993618 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat received 
+2026-06-14 22:28:13.999586 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat updated 
+2026-06-14 22:28:52.437968 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 22:28:52.849769 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'approved', 'reason': []} 
+2026-06-14 22:29:31.821257 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 22:29:32.204169 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': ['os version not accepted, ']} 
+2026-06-14 22:30:58.039945 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 22:30:58.522137 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': ['os version not accepted, ']} 
+2026-06-14 22:32:13.907252 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 22:32:14.332363 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': ['AV status not acceptable, ']} 
+2026-06-21 02:32:53.969262 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-21 02:35:10.144385 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-21 02:35:10.734710 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': ['os not accepted, ']} 
+2026-06-21 02:35:39.992306 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-21 02:35:41.856060 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': ['os not accepted, ']} 
+2026-06-21 02:36:56.220614 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-21 02:36:56.858665 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'approved', 'reason': []} 
+2026-06-21 23:29:47.363204 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 device access has been revoked and change change to status to offline 
+2026-06-21 23:31:43.693580 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 device access has been revoked and change change to status to offline 
+2026-06-29 02:17:08.195455 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-29 02:17:31.704571 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-29 02:18:38.165961 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-29 02:21:28.808070 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-29 02:22:16.236836 127.0.0.1 new request no UID userdata recived 
+2026-06-29 02:22:16.240189 127.0.0.1 assign uid ebd76705-b6cc-4ee2-afe9-27f41d5113e9 request added to the config file 
+2026-06-29 02:22:16.282050 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 user request for status update and current status pending 
+2026-06-29 02:22:26.312019 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 user request for status update and current status pending 
+2026-06-29 02:22:36.346042 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 user request for status update and current status pending 
+2026-06-29 02:22:46.376251 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 user request for status update and current status registered 
+2026-06-29 02:22:55.162483 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:23:18.388328 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:23:41.941840 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:24:05.069900 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:26:28.641924 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:28:06.738294 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:28:30.447729 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:28:54.000470 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:29:16.701765 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:29:59.991011 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:30:43.019481 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:31:06.046610 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:31:58.354638 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:32:21.305557 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:32:44.784285 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:34:11.539576 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:34:11.554371 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'deny', 'reason': ['os not accepted, ']} 
+2026-06-29 02:34:29.404906 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:34:29.419739 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'deny', 'reason': ['os not accepted, ']} 
+2026-06-29 02:36:10.807944 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:36:10.825949 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'deny', 'reason': ['os not accepted, ']} 
+2026-06-29 02:36:29.870013 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:36:29.885705 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'deny', 'reason': ['os not accepted, ']} 
+2026-06-29 02:36:48.001327 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:36:48.019731 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'deny', 'reason': ['os not accepted, ']} 
+2026-06-29 02:37:06.301241 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:37:06.315127 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'deny', 'reason': ['os not accepted, ']} 
+2026-06-29 02:37:24.429595 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:37:24.442314 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'deny', 'reason': ['os not accepted, ']} 
+2026-06-29 02:37:42.748273 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:37:42.764945 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'deny', 'reason': ['os not accepted, ']} 
+2026-06-29 02:38:01.095598 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:38:01.114563 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'deny', 'reason': ['os not accepted, ']} 
+2026-06-29 02:38:19.806043 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:38:19.820835 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'deny', 'reason': ['os not accepted, ']} 
+2026-06-29 02:38:38.540881 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:38:38.557875 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'deny', 'reason': ['os not accepted, ']} 
+2026-06-29 02:38:56.904134 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:38:56.918411 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'deny', 'reason': ['os not accepted, ']} 
+2026-06-29 02:39:15.119421 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:39:15.133501 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'deny', 'reason': ['os not accepted, ']} 
+2026-06-29 02:39:33.910659 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:39:33.927782 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'deny', 'reason': ['os not accepted, ']} 
+2026-06-29 02:39:52.247138 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:39:52.264607 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'deny', 'reason': ['os not accepted, ']} 
+2026-06-29 02:40:10.611208 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:40:10.638662 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'deny', 'reason': ['os not accepted, ']} 
+2026-06-29 02:40:28.891978 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:40:28.908824 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'deny', 'reason': ['os not accepted, ']} 
+2026-06-29 02:40:47.460393 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:40:47.475920 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'deny', 'reason': ['os not accepted, ']} 
+2026-06-29 02:41:05.704631 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:41:05.721378 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'deny', 'reason': ['os not accepted, ']} 
+2026-06-29 02:41:23.666837 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:41:23.681269 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'deny', 'reason': ['os not accepted, ']} 
+2026-06-29 02:41:42.063978 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:41:42.083114 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'deny', 'reason': ['os not accepted, ']} 
+2026-06-29 02:42:00.542862 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:42:00.571109 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'deny', 'reason': ['os not accepted, ']} 
+2026-06-29 02:42:19.069707 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:42:19.086355 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'deny', 'reason': ['os not accepted, ']} 
+2026-06-29 02:42:37.392484 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:42:37.407143 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'deny', 'reason': ['os not accepted, ']} 
+2026-06-29 02:42:56.106567 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:42:56.123515 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'deny', 'reason': ['os not accepted, ']} 
+2026-06-29 02:43:14.398997 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 02:43:14.415326 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 02:43:24.688034 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 02:43:24.691985 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 02:44:24.726622 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 02:44:24.729571 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 02:45:24.749559 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 02:45:24.753692 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 02:46:24.785516 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 02:46:24.791643 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 02:47:24.825490 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 02:47:24.827833 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 03:03:30.360997 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 03:03:30.383394 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 03:03:40.589166 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 03:03:40.590591 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 03:04:50.812527 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 03:04:50.840400 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 03:05:00.980687 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 03:05:00.986397 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 03:07:50.354102 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 03:07:50.383296 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 03:08:00.628463 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 03:08:00.635154 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 03:52:18.805647 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 03:52:18.832607 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 03:52:29.087827 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 03:52:29.093760 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 03:52:57.075127 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 03:52:57.099867 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 03:53:07.297131 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 03:53:07.300647 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 03:54:07.342817 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 03:54:07.345882 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 03:55:07.380920 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 03:55:07.384662 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 03:56:07.412411 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 03:56:07.419876 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 03:57:07.492196 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 03:57:07.496370 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 03:58:07.525779 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 03:58:07.532093 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 03:59:07.576982 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 03:59:07.584277 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 04:00:07.618100 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 04:00:07.622094 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 04:01:07.666761 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 04:01:07.677186 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 04:02:07.720074 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 04:02:07.728029 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 04:03:07.773053 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 04:03:07.777818 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 04:04:07.805608 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 04:04:07.812313 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 04:05:07.839489 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 04:05:07.848909 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 04:06:07.881066 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 04:06:07.886371 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 04:07:07.899238 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 04:07:07.905160 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 04:08:07.944386 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 04:08:07.949387 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 04:09:07.964641 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 04:09:07.967948 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 04:10:07.994713 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 04:10:07.996453 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 04:11:08.017165 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 04:11:08.019246 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 04:12:08.054556 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 04:12:08.058921 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 04:13:08.094071 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 04:13:08.098262 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 04:14:08.125426 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 04:14:08.129333 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 04:15:08.150362 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 04:15:08.155340 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 04:16:08.167474 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 04:16:08.170080 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 04:17:08.253933 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 04:17:08.258653 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 04:18:08.295321 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 04:18:08.299256 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 06:58:19.425863 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 06:58:19.562142 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 09:59:34.567187 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 09:59:34.578258 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 10:00:34.814562 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 10:00:34.817296 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 10:01:34.849070 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 10:01:34.853922 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 10:02:34.903183 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 10:02:34.905208 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 10:03:34.926842 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 10:03:34.930198 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 10:04:34.982666 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 10:04:34.986687 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 10:05:35.048450 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 10:05:35.053911 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 10:06:35.096067 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 10:06:35.117743 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 10:07:35.154139 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 10:07:35.158739 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 10:08:35.174929 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 10:08:35.178886 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 10:09:35.239333 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 10:09:35.242408 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 10:10:35.270499 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 10:10:35.273741 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 10:11:35.302054 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 10:11:35.309403 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 10:12:35.367883 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 10:12:35.370627 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 10:13:35.394414 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 10:13:35.397739 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 10:14:35.407656 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 10:14:35.409795 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 10:15:35.422906 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 10:15:35.428659 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 10:16:35.491244 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 10:16:35.495198 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 10:17:35.526610 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 10:17:35.533164 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 10:18:35.585062 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 10:18:35.590728 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 10:19:35.621730 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 10:19:35.626456 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 10:20:35.686658 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 10:20:35.692886 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 10:21:35.726782 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 10:21:35.728970 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 10:22:35.788136 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 10:22:35.797162 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 10:23:35.849812 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 10:23:35.854924 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 10:24:35.892402 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 10:24:35.899856 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 10:25:35.941770 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 10:25:35.948979 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 20:21:11.081451 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:21:11.098004 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:23:09.563368 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:23:09.575983 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:23:44.560824 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:23:44.587682 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:24:17.953952 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:24:17.966345 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:24:51.750396 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:24:51.763948 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:25:49.121790 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:25:49.134776 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:26:21.808293 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:26:21.824548 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:26:54.765270 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:26:54.780324 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:27:30.873898 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:27:30.888401 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:27:54.459666 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:27:54.473704 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:28:27.490256 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:28:27.512047 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:29:01.234379 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:29:01.256221 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:29:34.840007 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:29:34.854123 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:30:07.872372 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:30:07.893357 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:30:40.734115 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:30:40.750573 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:32:40.996023 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:32:41.010954 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:33:13.902815 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:33:13.919536 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:33:47.481212 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:33:47.498442 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:37:34.731663 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:37:34.746706 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:38:07.543763 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:38:07.575755 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:38:40.771539 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:38:40.792308 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:39:19.320916 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:39:19.339234 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:39:52.104315 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:39:52.120948 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:40:24.992068 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:40:25.018479 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:41:21.185997 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:41:21.203187 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:41:54.211484 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:41:54.226691 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:46:09.880702 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:46:09.898627 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:46:43.145743 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:46:43.161621 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:47:16.777608 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:47:16.792292 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:47:50.364286 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:47:50.382196 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:48:23.862152 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:48:23.875469 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:48:56.840493 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:48:56.851330 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:49:29.841122 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:49:29.856051 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:50:03.115739 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:50:03.143850 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:50:36.557709 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:50:36.572655 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:51:10.463078 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:51:10.479320 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:51:45.068494 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:51:45.084781 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:52:10.605310 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:52:10.620405 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:52:44.870849 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:52:44.887076 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:53:18.641531 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:53:18.656051 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:53:51.683003 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:53:51.699356 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:54:26.019170 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:54:26.035216 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:54:52.559856 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:54:52.576202 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:55:27.311808 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:55:27.329878 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 20:56:17.044438 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 20:56:17.065791 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 21:07:10.301354 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 21:07:10.323118 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 21:12:56.074873 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 21:12:56.088550 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 21:14:31.778385 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 21:14:31.803778 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 21:15:30.670638 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 21:15:30.698857 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 21:19:14.653725 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 21:19:14.671858 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 21:20:19.494091 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 21:20:19.507653 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 21:24:44.620402 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 21:24:44.635530 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 21:25:01.093211 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 21:25:01.095317 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 21:26:02.353145 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 21:26:02.355284 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 21:26:59.854092 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 21:26:59.868371 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 21:27:16.432163 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 21:27:16.433696 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat rejected, last seen Username is mismatched requested to reset 
+2026-06-29 21:28:30.719295 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 21:28:30.736457 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 21:28:47.161247 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 21:28:47.162747 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 21:29:48.450705 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 21:29:48.452425 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 21:30:49.655764 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 21:30:49.656279 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat rejected, last seen Username is mismatched requested to reset 
+2026-06-29 21:32:02.105426 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-29 21:32:02.128236 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': []} 
+2026-06-29 21:32:18.814162 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 21:32:18.815895 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 21:33:20.090369 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 21:33:20.092363 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 21:34:21.338202 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 21:34:21.341234 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 21:35:22.604528 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 21:35:22.606379 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 21:36:23.933882 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 21:36:23.937237 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 21:37:25.452037 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 21:37:25.457012 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 21:38:26.855831 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 21:38:26.857724 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 21:39:28.074349 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 21:39:28.076636 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 21:40:29.402485 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-29 21:40:29.404904 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-29 21:42:37.770573 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 device access has been revoked and change change to status to offline 
+2026-06-29 21:50:46.742370 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 device access has been revoked and change change to status to offline 
+2026-06-29 21:51:21.806399 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 device access has been revoked and change change to status to offline 
+2026-06-29 21:51:37.379948 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 device access has been revoked and change change to status to offline 
+2026-06-29 21:53:21.236117 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 device access has been revoked and change change to status to offline 
+2026-06-29 21:53:45.021511 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 device access has been revoked and change change to status to offline 
+2026-06-29 21:55:17.713403 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 device access has been revoked and change change to status to offline 
+2026-06-29 21:57:05.670536 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 device access has been revoked and change change to status to offline 
+2026-06-29 21:58:10.692039 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 device access has been revoked and change change to status to offline 
+2026-06-29 21:59:36.356820 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 device access has been revoked and change change to status to offline 
+2026-06-29 21:59:55.089247 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 device access has been revoked and change change to status to offline 
+2026-06-29 22:00:41.937123 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 device access has been revoked and change change to status to offline 
+2026-06-29 22:01:30.990274 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 device access has been revoked and change change to status to offline 
+2026-06-29 22:02:28.149854 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 device access has been revoked and change change to status to offline 
+2026-06-29 22:03:28.248752 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 device access has been revoked and change change to status to offline 
+2026-06-29 22:03:44.194839 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 device access has been revoked and change change to status to offline 
+2026-06-30 22:35:03.961159 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-30 22:35:04.011122 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': [], 'group': 'Normal Users'} 
+2026-06-30 22:35:15.941013 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-30 22:35:15.947612 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-30 22:37:40.941872 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 device access has been revoked and change change to status to offline 
+2026-06-30 22:38:17.033019 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-30 22:38:17.058417 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': [], 'group': 'Normal Users'} 
+2026-06-30 22:38:28.935855 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-30 22:38:28.941062 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-30 22:40:41.099628 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 device access has been revoked and change change to status to offline 
+2026-06-30 22:45:12.938172 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-30 22:49:33.913011 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-30 22:50:17.632858 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-30 22:53:25.836505 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-30 22:53:25.845008 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': [], 'group': 'Normal Users'} 
+2026-06-30 22:53:37.968285 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-30 22:53:37.970719 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-30 22:54:39.600434 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-30 22:54:39.605008 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-30 22:55:41.480798 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-30 22:55:41.484721 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-30 22:56:42.895346 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-30 22:56:42.898927 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-30 22:57:44.586245 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-30 22:57:44.591561 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-30 22:58:46.082639 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-30 22:58:46.086416 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-30 22:59:47.788827 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-30 22:59:47.792238 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-30 23:01:41.412757 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 device access has been revoked and change change to status to offline 
+2026-06-30 23:28:34.341138 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-30 23:28:34.349592 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': [], 'group': 'Normal Users'} 
+2026-06-30 23:28:46.107258 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-30 23:28:46.111100 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-30 23:30:02.294486 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-30 23:30:02.299372 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': [], 'group': 'Normal Users'} 
+2026-06-30 23:30:13.850838 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-30 23:30:13.854852 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-30 23:31:15.360310 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-30 23:31:15.365912 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-30 23:32:10.502852 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-30 23:32:10.508669 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': [], 'group': 'Normal Users'} 
+2026-06-30 23:32:22.374333 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-30 23:32:22.376922 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-30 23:33:23.787134 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-30 23:33:23.790390 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-30 23:35:56.358535 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-30 23:35:56.397062 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': [], 'group': 'Normal Users'} 
+2026-06-30 23:36:08.002182 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-30 23:36:08.004739 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-30 23:37:41.773225 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 device access has been revoked and change change to status to offline 
+2026-06-30 23:38:41.983860 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 device access has been revoked and change change to status to offline 
+2026-06-30 23:39:42.141790 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 device access has been revoked and change change to status to offline 
+2026-06-30 23:40:42.350993 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 device access has been revoked and change change to status to offline 
+2026-06-30 23:41:42.550443 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 device access has been revoked and change change to status to offline 
+2026-06-30 23:42:42.766072 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 device access has been revoked and change change to status to offline 
+2026-06-30 23:43:42.980179 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 device access has been revoked and change change to status to offline 
+2026-06-30 23:44:43.259242 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 device access has been revoked and change change to status to offline 
+2026-06-30 23:45:43.558572 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 device access has been revoked and change change to status to offline 
+2026-06-30 23:46:12.967081 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-30 23:46:12.974318 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': [], 'group': 'Normal Users'} 
+2026-06-30 23:46:24.636134 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-30 23:46:24.639592 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-30 23:47:26.563170 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-30 23:47:26.566877 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-30 23:48:37.937898 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-30 23:48:37.942650 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': [], 'group': 'Normal Users'} 
+2026-06-30 23:48:49.657579 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-30 23:48:49.661449 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-30 23:49:51.395343 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-30 23:49:51.399226 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-30 23:50:52.999099 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-30 23:50:53.002990 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-30 23:51:42.686898 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-30 23:51:42.695703 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': [], 'group': 'Normal Users'} 
+2026-06-30 23:51:54.590942 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-30 23:51:54.593001 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-30 23:52:56.373303 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-30 23:52:56.378365 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': [], 'group': 'Normal Users'} 
+2026-06-30 23:53:08.131344 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-30 23:53:08.134576 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-30 23:54:09.523717 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-30 23:54:09.525358 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-30 23:55:43.846218 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 device access has been revoked and change change to status to offline 
+2026-06-30 23:56:37.534301 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-06-30 23:56:37.542170 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': [], 'group': 'Normal Users'} 
+2026-06-30 23:56:49.308818 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-30 23:56:49.312113 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-30 23:57:50.953782 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-30 23:57:50.957771 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-30 23:58:52.666562 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-30 23:58:52.671687 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-06-30 23:59:54.211210 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-06-30 23:59:54.216837 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-07-01 00:00:56.350478 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-07-01 00:00:56.359115 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-07-01 00:02:44.065719 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 device access has been revoked and change change to status to offline 
+2026-07-01 00:03:25.018094 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-07-01 00:03:25.026678 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': [], 'group': 'Normal Users'} 
+2026-07-01 00:03:36.767656 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-07-01 00:03:36.770123 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-07-01 00:04:38.228980 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-07-01 00:04:38.232950 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-07-01 00:05:39.897996 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-07-01 00:05:39.902593 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-07-01 00:06:41.747562 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-07-01 00:06:41.749914 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-07-01 00:07:43.423270 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-07-01 00:07:43.426249 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-07-01 00:08:19.085183 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-07-01 00:08:19.092806 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': [], 'group': 'Normal Users'} 
+2026-07-01 00:08:30.958266 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-07-01 00:08:30.963753 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-07-01 00:09:32.636673 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-07-01 00:09:32.640695 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-07-01 00:11:18.759401 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 device access has been revoked and change change to status to offline 
+2026-07-01 00:18:24.614731 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 device access has been revoked and change change to status to offline 
+2026-07-01 00:20:21.450809 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-07-01 00:20:21.456946 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': [], 'group': 'Normal Users'} 
+2026-07-01 00:20:33.646151 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-07-01 00:20:33.649922 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 
+2026-07-01 00:23:02.423637 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 device access has been revoked and change change to status to offline 
+2026-07-17 23:26:04.177541 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-07-17 23:26:04.191150 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': [], 'group': 'Normal Users'} 
+2026-07-17 23:26:52.204394 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 userdata recived 
+2026-07-17 23:26:52.210569 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 {'status': 'approved', 'reason': [], 'group': 'Normal Users'} 
+2026-07-17 23:27:03.061966 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat received 
+2026-07-17 23:27:03.064831 127.0.0.1 ebd76705-b6cc-4ee2-afe9-27f41d5113e9 heart beat updated 

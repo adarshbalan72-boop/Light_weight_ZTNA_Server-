@@ -1,0 +1,756 @@
+2026-06-13 03:11:05.035331 initiated the registration verification checking registration file 
+2026-06-13 03:11:05.036160 registration file verifcation not found registration file 
+2026-06-13 03:11:16.218235 sending registration request request send from agent  
+2026-06-13 03:11:16.219179 sending registration request  server accepeted the reg request 
+2026-06-13 03:11:16.230171 initiated the registration verification checking registration file 
+2026-06-13 03:11:16.230737 registration status pending   
+2026-06-13 03:11:16.259962 registration status pending requested for status update 
+2026-06-13 03:11:26.262419 initiated the registration verification checking registration file 
+2026-06-13 03:11:26.263173 registration status pending   
+2026-06-13 03:11:26.283031 registration status pending requested for status update 
+2026-06-13 03:11:36.285191 initiated the registration verification checking registration file 
+2026-06-13 03:11:36.285772 registration status pending   
+2026-06-13 03:11:36.302925 registration status pending requested for status update 
+2026-06-13 03:11:46.307579 initiated the registration verification checking registration file 
+2026-06-13 03:11:46.308280 registration status pending   
+2026-06-13 03:11:46.327212 registration status pending requested for status update 
+2026-06-13 03:11:56.329341 initiated the registration verification checking registration file 
+2026-06-13 03:11:56.330051 registration status pending   
+2026-06-13 03:11:56.348724 registration status pending requested for status update 
+2026-06-13 03:12:06.351214 initiated the registration verification checking registration file 
+2026-06-13 03:12:06.351657 registration status pending   
+2026-06-13 03:12:06.368459 registration status pending requested for status update 
+2026-06-13 03:12:06.369657 registration status pending status is change to registrated 
+2026-06-13 03:12:06.383154 initiated the registration verification checking registration file 
+2026-06-13 03:12:06.383690 registration status device is registrered 
+2026-06-13 03:12:26.584168 posturing request send full data 
+2026-06-13 03:12:26.586050 posturing request approved [] 
+2026-06-13 03:12:36.588885 heartbeat sending heartbeat request 
+2026-06-13 03:12:36.608914 heartbeat online 
+2026-06-13 03:13:36.610364 heartbeat sending heartbeat request 
+2026-06-13 03:13:36.635561 heartbeat online 
+2026-06-13 03:14:36.637299 heartbeat sending heartbeat request 
+2026-06-13 03:14:36.668572 heartbeat online 
+2026-06-14 00:54:01.645556 initiated the registration verification checking registration file 
+2026-06-14 00:54:01.646756 registration status device is registrered 
+2026-06-14 00:54:20.544905 posturing request send full data 
+2026-06-14 00:54:54.609704 initiated the registration verification checking registration file 
+2026-06-14 00:54:54.610722 registration status device is registrered 
+2026-06-14 00:55:11.812404 posturing request send full data 
+2026-06-14 00:55:11.813707 posturing request deny [] 
+2026-06-14 00:55:38.095892 posturing request send full data 
+2026-06-14 00:55:38.096906 posturing request deny [] 
+2026-06-14 00:56:05.782009 posturing request send full data 
+2026-06-14 00:56:05.783368 posturing request deny [] 
+2026-06-14 00:56:33.285900 posturing request send full data 
+2026-06-14 00:56:33.287083 posturing request deny [] 
+2026-06-14 00:56:55.530644 initiated the registration verification checking registration file 
+2026-06-14 00:56:55.531282 registration status device is registrered 
+2026-06-14 00:57:14.837394 posturing request send full data 
+2026-06-14 00:57:14.838498 posturing request deny [] 
+2026-06-14 00:57:41.007576 posturing request send full data 
+2026-06-14 00:57:41.009174 posturing request deny [] 
+2026-06-14 01:00:16.085800 initiated the registration verification checking registration file 
+2026-06-14 01:00:16.087101 registration status device is registrered 
+2026-06-14 01:00:35.094607 posturing request send full data 
+2026-06-14 01:00:35.095627 posturing request deny [] 
+2026-06-14 01:01:02.594388 initiated the registration verification checking registration file 
+2026-06-14 01:01:02.595470 registration status device is registrered 
+2026-06-14 01:01:24.826952 posturing request connection failed 
+2026-06-14 01:01:54.398966 posturing request send full data 
+2026-06-14 01:01:54.400517 posturing request approved [] 
+2026-06-14 01:02:04.401884 heartbeat sending heartbeat request 
+2026-06-14 01:02:04.410366 heartbeat online 
+2026-06-14 01:03:04.412176 heartbeat sending heartbeat request 
+2026-06-14 01:03:04.420842 heartbeat online 
+2026-06-14 01:04:04.422480 heartbeat sending heartbeat request 
+2026-06-14 01:04:04.442064 heartbeat online 
+2026-06-14 01:05:04.443468 heartbeat sending heartbeat request 
+2026-06-14 01:05:04.463179 heartbeat online 
+2026-06-14 01:06:04.473456 heartbeat sending heartbeat request 
+2026-06-14 01:06:06.521856 heartbeat connection failed 
+2026-06-14 01:06:27.069859 posturing request connection failed 
+2026-06-14 01:06:38.967966 initiated the registration verification checking registration file 
+2026-06-14 01:06:38.969100 registration status device is registrered 
+2026-06-14 01:06:58.803445 posturing request send full data 
+2026-06-14 01:06:58.805240 posturing request approved [] 
+2026-06-14 01:07:08.811365 heartbeat sending heartbeat request 
+2026-06-14 01:07:08.836532 heartbeat online 
+2026-06-14 01:08:08.838228 heartbeat sending heartbeat request 
+2026-06-14 01:08:13.853498 heartbeat connection failed 
+2026-06-14 22:12:12.603971 initiated the registration verification checking registration file 
+2026-06-14 22:12:12.605149 registration status device is registrered 
+2026-06-14 22:12:35.142888 posturing request connection failed 
+2026-06-14 22:14:03.254273 initiated the registration verification checking registration file 
+2026-06-14 22:14:03.255073 registration status device is registrered 
+2026-06-14 22:14:23.126842 posturing request send full data 
+2026-06-14 22:14:23.128857 posturing request approved [] 
+2026-06-14 22:14:33.131378 heartbeat sending heartbeat request 
+2026-06-14 22:14:33.140549 heartbeat online 
+2026-06-14 22:15:25.247879 initiated the registration verification checking registration file 
+2026-06-14 22:15:25.248499 registration status device is registrered 
+2026-06-14 22:15:43.067094 posturing request send full data 
+2026-06-14 22:15:43.068652 posturing request approved ['os not accepted, '] 
+2026-06-14 22:15:53.070631 heartbeat sending heartbeat request 
+2026-06-14 22:16:51.882146 initiated the registration verification checking registration file 
+2026-06-14 22:16:51.882891 registration status device is registrered 
+2026-06-14 22:17:10.183807 posturing request send full data 
+2026-06-14 22:17:10.186022 posturing request approved ['os not accepted, '] 
+2026-06-14 22:17:20.187781 heartbeat sending heartbeat request 
+2026-06-14 22:17:20.197585 heartbeat online 
+2026-06-14 22:18:20.201973 heartbeat sending heartbeat request 
+2026-06-14 22:18:22.230017 heartbeat connection failed 
+2026-06-14 22:20:52.952543 initiated the registration verification checking registration file 
+2026-06-14 22:20:52.953644 registration status device is registrered 
+2026-06-14 22:21:09.172215 posturing request send full data 
+2026-06-14 22:21:09.173075 posturing request deny [] 
+2026-06-14 22:22:23.209932 initiated the registration verification checking registration file 
+2026-06-14 22:22:23.213361 registration status device is registrered 
+2026-06-14 22:22:39.355394 posturing request send full data 
+2026-06-14 22:22:39.356651 posturing request deny [] 
+2026-06-14 22:23:06.222702 initiated the registration verification checking registration file 
+2026-06-14 22:23:06.224928 registration status device is registrered 
+2026-06-14 22:23:22.306304 posturing request send full data 
+2026-06-14 22:23:22.307751 posturing request deny [] 
+2026-06-14 22:23:47.449935 posturing request send full data 
+2026-06-14 22:23:47.451065 posturing request deny [] 
+2026-06-14 22:25:33.494174 initiated the registration verification checking registration file 
+2026-06-14 22:25:33.495065 registration status device is registrered 
+2026-06-14 22:25:53.680810 posturing request send full data 
+2026-06-14 22:25:53.682466 posturing request approved [] 
+2026-06-14 22:26:11.740955 initiated the registration verification checking registration file 
+2026-06-14 22:26:11.742002 registration status device is registrered 
+2026-06-14 22:26:27.433369 posturing request send full data 
+2026-06-14 22:26:27.434444 posturing request deny ['os not accepted, '] 
+2026-06-14 22:26:51.830200 posturing request send full data 
+2026-06-14 22:26:51.831867 posturing request deny ['os not accepted, '] 
+2026-06-14 22:27:46.084375 initiated the registration verification checking registration file 
+2026-06-14 22:27:46.085005 registration status device is registrered 
+2026-06-14 22:28:03.969924 posturing request send full data 
+2026-06-14 22:28:03.971406 posturing request approved [] 
+2026-06-14 22:28:13.973373 heartbeat sending heartbeat request 
+2026-06-14 22:28:14.003496 heartbeat online 
+2026-06-14 22:28:37.417109 initiated the registration verification checking registration file 
+2026-06-14 22:28:37.417759 registration status device is registrered 
+2026-06-14 22:28:55.361524 posturing request send full data 
+2026-06-14 22:28:55.362496 posturing request approved [] 
+2026-06-14 22:29:10.173187 initiated the registration verification checking registration file 
+2026-06-14 22:29:10.173920 registration status device is registrered 
+2026-06-14 22:29:16.695910 initiated the registration verification checking registration file 
+2026-06-14 22:29:16.696561 registration status device is registrered 
+2026-06-14 22:29:32.209972 posturing request send full data 
+2026-06-14 22:29:32.211235 posturing request deny ['os version not accepted, '] 
+2026-06-14 22:30:38.258639 initiated the registration verification checking registration file 
+2026-06-14 22:30:38.259994 registration status device is registrered 
+2026-06-14 22:30:58.528247 posturing request send full data 
+2026-06-14 22:30:58.530388 posturing request deny ['os version not accepted, '] 
+2026-06-14 22:31:53.815539 initiated the registration verification checking registration file 
+2026-06-14 22:31:53.816441 registration status device is registrered 
+2026-06-14 22:32:14.338691 posturing request send full data 
+2026-06-14 22:32:14.340644 posturing request deny ['AV status not acceptable, '] 
+2026-06-21 02:32:28.601284 initiated the registration verification checking registration file 
+2026-06-21 02:32:28.602780 registration status device is registrered 
+2026-06-21 02:32:56.199418 posturing request send full data 
+2026-06-21 02:34:48.957672 initiated the registration verification checking registration file 
+2026-06-21 02:34:48.958782 registration status device is registrered 
+2026-06-21 02:35:10.741914 posturing request send full data 
+2026-06-21 02:35:10.743544 posturing request deny ['os not accepted, '] 
+2026-06-21 02:35:41.874494 posturing request send full data 
+2026-06-21 02:35:41.877535 posturing request deny ['os not accepted, '] 
+2026-06-21 02:36:35.443855 initiated the registration verification checking registration file 
+2026-06-21 02:36:35.445380 registration status device is registrered 
+2026-06-21 02:37:01.229172 posturing request connection failed 
+2026-06-29 02:15:24.106552 initiated the registration verification checking registration file 
+2026-06-29 02:15:24.107545 registration status device is registrered 
+2026-06-29 02:16:59.715165 initiated the registration verification checking registration file 
+2026-06-29 02:16:59.715585 registration status device is registrered 
+2026-06-29 02:17:13.200375 posturing request connection failed 
+2026-06-29 02:18:29.602561 initiated the registration verification checking registration file 
+2026-06-29 02:18:29.602919 registration status device is registrered 
+2026-06-29 02:18:43.179954 posturing request connection failed 
+2026-06-29 02:21:19.754191 initiated the registration verification checking registration file 
+2026-06-29 02:21:19.754697 registration status device is registrered 
+2026-06-29 02:21:33.814485 posturing request connection failed 
+2026-06-29 02:22:08.741706 initiated the registration verification checking registration file 
+2026-06-29 02:22:08.742189 registration file verifcation not found registration file 
+2026-06-29 02:22:16.243025 sending registration request request send from agent  
+2026-06-29 02:22:16.243704 sending registration request  server accepeted the reg request 
+2026-06-29 02:22:16.257281 initiated the registration verification checking registration file 
+2026-06-29 02:22:16.257655 registration status pending   
+2026-06-29 02:22:16.288587 registration status pending requested for status update 
+2026-06-29 02:22:26.291338 initiated the registration verification checking registration file 
+2026-06-29 02:22:26.292164 registration status pending   
+2026-06-29 02:22:26.313825 registration status pending requested for status update 
+2026-06-29 02:22:36.316119 initiated the registration verification checking registration file 
+2026-06-29 02:22:36.317150 registration status pending   
+2026-06-29 02:22:36.350226 registration status pending requested for status update 
+2026-06-29 02:22:46.352477 initiated the registration verification checking registration file 
+2026-06-29 02:22:46.353185 registration status pending   
+2026-06-29 02:22:46.378794 registration status pending requested for status update 
+2026-06-29 02:22:46.381023 registration status pending status is change to registrated 
+2026-06-29 02:22:46.396250 initiated the registration verification checking registration file 
+2026-06-29 02:22:46.397168 registration status device is registrered 
+2026-06-29 02:23:00.173084 posturing request connection failed 
+2026-06-29 02:23:23.394666 posturing request connection failed 
+2026-06-29 02:23:46.950155 posturing request connection failed 
+2026-06-29 02:24:06.737387 posturing request connection failed 
+2026-06-29 02:26:19.594486 initiated the registration verification checking registration file 
+2026-06-29 02:26:19.594922 registration status device is registrered 
+2026-06-29 02:26:33.655053 posturing request connection failed 
+2026-06-29 02:26:53.883619 posturing request connection failed 
+2026-06-29 02:27:58.226650 initiated the registration verification checking registration file 
+2026-06-29 02:27:58.227002 registration status device is registrered 
+2026-06-29 02:28:11.741439 posturing request connection failed 
+2026-06-29 02:28:35.448675 posturing request connection failed 
+2026-06-29 02:28:54.889509 posturing request connection failed 
+2026-06-29 02:29:07.889816 initiated the registration verification checking registration file 
+2026-06-29 02:29:07.890233 registration status device is registrered 
+2026-06-29 02:29:21.698754 posturing request connection failed 
+2026-06-29 02:29:51.357321 initiated the registration verification checking registration file 
+2026-06-29 02:29:51.358036 registration status device is registrered 
+2026-06-29 02:30:34.566526 initiated the registration verification checking registration file 
+2026-06-29 02:30:34.566908 registration status device is registrered 
+2026-06-29 02:30:48.029067 posturing request connection failed 
+2026-06-29 02:31:11.054654 posturing request connection failed 
+2026-06-29 02:31:31.661237 posturing request connection failed 
+2026-06-29 02:31:49.811801 initiated the registration verification checking registration file 
+2026-06-29 02:31:49.812143 registration status device is registrered 
+2026-06-29 02:32:03.359033 posturing request connection failed 
+2026-06-29 02:32:26.309679 posturing request connection failed 
+2026-06-29 02:32:49.795777 posturing request connection failed 
+2026-06-29 02:34:02.883912 initiated the registration verification checking registration file 
+2026-06-29 02:34:02.884334 registration status device is registrered 
+2026-06-29 02:34:11.558565 posturing request send full data 
+2026-06-29 02:34:11.560746 posturing request deny ['os not accepted, '] 
+2026-06-29 02:34:29.424730 posturing request send full data 
+2026-06-29 02:34:29.426005 posturing request deny ['os not accepted, '] 
+2026-06-29 02:34:50.386413 posturing request connection failed 
+2026-06-29 02:35:10.654462 posturing request connection failed 
+2026-06-29 02:36:02.193692 initiated the registration verification checking registration file 
+2026-06-29 02:36:02.194169 registration status device is registrered 
+2026-06-29 02:36:10.832408 posturing request send full data 
+2026-06-29 02:36:10.833199 posturing request deny ['os not accepted, '] 
+2026-06-29 02:36:29.889260 posturing request send full data 
+2026-06-29 02:36:29.891842 posturing request deny ['os not accepted, '] 
+2026-06-29 02:36:48.024024 posturing request send full data 
+2026-06-29 02:36:48.024869 posturing request deny ['os not accepted, '] 
+2026-06-29 02:37:06.320032 posturing request send full data 
+2026-06-29 02:37:06.322082 posturing request deny ['os not accepted, '] 
+2026-06-29 02:37:24.446728 posturing request send full data 
+2026-06-29 02:37:24.456361 posturing request deny ['os not accepted, '] 
+2026-06-29 02:37:42.768713 posturing request send full data 
+2026-06-29 02:37:42.769423 posturing request deny ['os not accepted, '] 
+2026-06-29 02:38:01.118421 posturing request send full data 
+2026-06-29 02:38:01.119204 posturing request deny ['os not accepted, '] 
+2026-06-29 02:38:19.825804 posturing request send full data 
+2026-06-29 02:38:19.827511 posturing request deny ['os not accepted, '] 
+2026-06-29 02:38:38.562363 posturing request send full data 
+2026-06-29 02:38:38.563140 posturing request deny ['os not accepted, '] 
+2026-06-29 02:38:56.923377 posturing request send full data 
+2026-06-29 02:38:56.924301 posturing request deny ['os not accepted, '] 
+2026-06-29 02:39:15.137772 posturing request send full data 
+2026-06-29 02:39:15.138597 posturing request deny ['os not accepted, '] 
+2026-06-29 02:39:33.933286 posturing request send full data 
+2026-06-29 02:39:33.935657 posturing request deny ['os not accepted, '] 
+2026-06-29 02:39:52.268705 posturing request send full data 
+2026-06-29 02:39:52.269973 posturing request deny ['os not accepted, '] 
+2026-06-29 02:40:10.644986 posturing request send full data 
+2026-06-29 02:40:10.648877 posturing request deny ['os not accepted, '] 
+2026-06-29 02:40:28.913948 posturing request send full data 
+2026-06-29 02:40:28.914754 posturing request deny ['os not accepted, '] 
+2026-06-29 02:40:47.479521 posturing request send full data 
+2026-06-29 02:40:47.480277 posturing request deny ['os not accepted, '] 
+2026-06-29 02:41:05.724969 posturing request send full data 
+2026-06-29 02:41:05.725621 posturing request deny ['os not accepted, '] 
+2026-06-29 02:41:23.685279 posturing request send full data 
+2026-06-29 02:41:23.686251 posturing request deny ['os not accepted, '] 
+2026-06-29 02:41:42.086391 posturing request send full data 
+2026-06-29 02:41:42.087042 posturing request deny ['os not accepted, '] 
+2026-06-29 02:42:00.574813 posturing request send full data 
+2026-06-29 02:42:00.575555 posturing request deny ['os not accepted, '] 
+2026-06-29 02:42:19.089769 posturing request send full data 
+2026-06-29 02:42:19.090678 posturing request deny ['os not accepted, '] 
+2026-06-29 02:42:37.410918 posturing request send full data 
+2026-06-29 02:42:37.412046 posturing request deny ['os not accepted, '] 
+2026-06-29 02:42:56.127805 posturing request send full data 
+2026-06-29 02:42:56.128556 posturing request deny ['os not accepted, '] 
+2026-06-29 02:43:14.663899 posturing request send full data 
+2026-06-29 02:43:14.664865 posturing request approved [] 
+2026-06-29 02:43:24.668288 heartbeat sending heartbeat request 
+2026-06-29 02:43:24.695328 heartbeat online 
+2026-06-29 02:44:24.697593 heartbeat sending heartbeat request 
+2026-06-29 02:44:24.732333 heartbeat online 
+2026-06-29 02:45:24.734282 heartbeat sending heartbeat request 
+2026-06-29 02:45:24.757049 heartbeat online 
+2026-06-29 02:46:24.759500 heartbeat sending heartbeat request 
+2026-06-29 02:46:24.799828 heartbeat online 
+2026-06-29 02:47:24.803741 heartbeat sending heartbeat request 
+2026-06-29 02:47:24.830064 heartbeat online 
+2026-06-29 03:03:20.498978 initiated the registration verification checking registration file 
+2026-06-29 03:03:20.499664 registration status device is registrered 
+2026-06-29 03:03:30.557676 posturing request send full data 
+2026-06-29 03:03:30.558656 posturing request approved [] 
+2026-06-29 03:03:40.560950 heartbeat sending heartbeat request 
+2026-06-29 03:03:40.593607 heartbeat online 
+2026-06-29 03:04:36.649500 initiated the registration verification checking registration file 
+2026-06-29 03:04:36.650123 registration status device is registrered 
+2026-06-29 03:04:50.945204 posturing request send full data 
+2026-06-29 03:04:50.946162 posturing request approved [] 
+2026-06-29 03:05:00.948454 heartbeat sending heartbeat request 
+2026-06-29 03:05:00.991309 heartbeat online 
+2026-06-29 03:06:00.993809 heartbeat sending heartbeat request 
+2026-06-29 03:06:03.056034 heartbeat connection failed 
+2026-06-29 03:07:36.099117 initiated the registration verification checking registration file 
+2026-06-29 03:07:36.099651 registration status device is registrered 
+2026-06-29 03:07:50.580413 posturing request send full data 
+2026-06-29 03:07:50.582280 posturing request approved [] 
+2026-06-29 03:08:00.585675 heartbeat sending heartbeat request 
+2026-06-29 03:08:00.645783 heartbeat online 
+2026-06-29 03:52:05.277206 initiated the registration verification checking registration file 
+2026-06-29 03:52:05.279006 registration status device is registrered 
+2026-06-29 03:52:19.055919 posturing request send full data 
+2026-06-29 03:52:19.057477 posturing request approved [] 
+2026-06-29 03:52:29.060015 heartbeat sending heartbeat request 
+2026-06-29 03:52:29.100953 heartbeat online 
+2026-06-29 03:52:45.109982 initiated the registration verification checking registration file 
+2026-06-29 03:52:45.110970 registration status device is registrered 
+2026-06-29 03:52:57.255978 posturing request send full data 
+2026-06-29 03:52:57.258355 posturing request approved [] 
+2026-06-29 03:53:07.261931 heartbeat sending heartbeat request 
+2026-06-29 03:53:07.307608 heartbeat online 
+2026-06-29 03:54:07.309385 heartbeat sending heartbeat request 
+2026-06-29 03:54:07.352356 heartbeat online 
+2026-06-29 03:55:07.354381 heartbeat sending heartbeat request 
+2026-06-29 03:55:07.389563 heartbeat online 
+2026-06-29 03:56:07.397286 heartbeat sending heartbeat request 
+2026-06-29 03:56:07.425112 heartbeat online 
+2026-06-29 03:57:07.428733 heartbeat sending heartbeat request 
+2026-06-29 03:57:07.500492 heartbeat online 
+2026-06-29 03:58:07.502648 heartbeat sending heartbeat request 
+2026-06-29 03:58:07.539674 heartbeat online 
+2026-06-29 03:59:07.543770 heartbeat sending heartbeat request 
+2026-06-29 03:59:07.593470 heartbeat online 
+2026-06-29 04:00:07.597356 heartbeat sending heartbeat request 
+2026-06-29 04:00:07.627675 heartbeat online 
+2026-06-29 04:01:07.631367 heartbeat sending heartbeat request 
+2026-06-29 04:01:07.685619 heartbeat online 
+2026-06-29 04:02:07.688915 heartbeat sending heartbeat request 
+2026-06-29 04:02:07.734297 heartbeat online 
+2026-06-29 04:03:07.737881 heartbeat sending heartbeat request 
+2026-06-29 04:03:07.782600 heartbeat online 
+2026-06-29 04:04:07.786760 heartbeat sending heartbeat request 
+2026-06-29 04:04:07.820646 heartbeat online 
+2026-06-29 04:05:07.830247 heartbeat sending heartbeat request 
+2026-06-29 04:05:07.867249 heartbeat online 
+2026-06-29 04:06:07.870565 heartbeat sending heartbeat request 
+2026-06-29 04:06:07.890234 heartbeat online 
+2026-06-29 04:07:07.892317 heartbeat sending heartbeat request 
+2026-06-29 04:07:07.909163 heartbeat online 
+2026-06-29 04:08:07.913514 heartbeat sending heartbeat request 
+2026-06-29 04:08:07.953901 heartbeat online 
+2026-06-29 04:09:07.955675 heartbeat sending heartbeat request 
+2026-06-29 04:09:07.971833 heartbeat online 
+2026-06-29 04:10:07.973933 heartbeat sending heartbeat request 
+2026-06-29 04:10:08.000545 heartbeat online 
+2026-06-29 04:11:08.002147 heartbeat sending heartbeat request 
+2026-06-29 04:11:08.021629 heartbeat online 
+2026-06-29 04:12:08.023945 heartbeat sending heartbeat request 
+2026-06-29 04:12:08.063231 heartbeat online 
+2026-06-29 04:13:08.065772 heartbeat sending heartbeat request 
+2026-06-29 04:13:08.101426 heartbeat online 
+2026-06-29 04:14:08.103727 heartbeat sending heartbeat request 
+2026-06-29 04:14:08.133361 heartbeat online 
+2026-06-29 04:15:08.135666 heartbeat sending heartbeat request 
+2026-06-29 04:15:08.159981 heartbeat online 
+2026-06-29 04:16:08.162483 heartbeat sending heartbeat request 
+2026-06-29 04:16:08.173176 heartbeat online 
+2026-06-29 04:17:08.178657 heartbeat sending heartbeat request 
+2026-06-29 04:17:08.265226 heartbeat online 
+2026-06-29 04:18:08.268247 heartbeat sending heartbeat request 
+2026-06-29 04:18:08.304601 heartbeat online 
+2026-06-29 06:58:19.012107 heartbeat sending heartbeat request 
+2026-06-29 06:58:19.684851 heartbeat online 
+2026-06-29 09:59:34.324583 heartbeat sending heartbeat request 
+2026-06-29 09:59:34.678274 heartbeat online 
+2026-06-29 10:00:34.775480 heartbeat sending heartbeat request 
+2026-06-29 10:00:34.822478 heartbeat online 
+2026-06-29 10:01:34.831895 heartbeat sending heartbeat request 
+2026-06-29 10:01:34.858597 heartbeat online 
+2026-06-29 10:02:34.862175 heartbeat sending heartbeat request 
+2026-06-29 10:02:34.911492 heartbeat online 
+2026-06-29 10:03:34.914124 heartbeat sending heartbeat request 
+2026-06-29 10:03:34.945241 heartbeat online 
+2026-06-29 10:04:34.947570 heartbeat sending heartbeat request 
+2026-06-29 10:04:34.992342 heartbeat online 
+2026-06-29 10:05:35.002018 heartbeat sending heartbeat request 
+2026-06-29 10:05:35.057957 heartbeat online 
+2026-06-29 10:06:35.059795 heartbeat sending heartbeat request 
+2026-06-29 10:06:35.134569 heartbeat online 
+2026-06-29 10:07:35.136665 heartbeat sending heartbeat request 
+2026-06-29 10:07:35.160973 heartbeat online 
+2026-06-29 10:08:35.163237 heartbeat sending heartbeat request 
+2026-06-29 10:08:35.183864 heartbeat online 
+2026-06-29 10:09:35.186564 heartbeat sending heartbeat request 
+2026-06-29 10:09:35.244635 heartbeat online 
+2026-06-29 10:10:35.246260 heartbeat sending heartbeat request 
+2026-06-29 10:10:35.276486 heartbeat online 
+2026-06-29 10:11:35.279050 heartbeat sending heartbeat request 
+2026-06-29 10:11:35.316919 heartbeat online 
+2026-06-29 10:12:35.318966 heartbeat sending heartbeat request 
+2026-06-29 10:12:35.375436 heartbeat online 
+2026-06-29 10:13:35.377307 heartbeat sending heartbeat request 
+2026-06-29 10:13:35.400478 heartbeat online 
+2026-06-29 10:14:35.402558 heartbeat sending heartbeat request 
+2026-06-29 10:14:35.411844 heartbeat online 
+2026-06-29 10:15:35.414062 heartbeat sending heartbeat request 
+2026-06-29 10:15:35.435739 heartbeat online 
+2026-06-29 10:16:35.439181 heartbeat sending heartbeat request 
+2026-06-29 10:16:35.503287 heartbeat online 
+2026-06-29 10:17:35.507620 heartbeat sending heartbeat request 
+2026-06-29 10:17:35.536718 heartbeat online 
+2026-06-29 10:18:35.543228 heartbeat sending heartbeat request 
+2026-06-29 10:18:35.599201 heartbeat online 
+2026-06-29 10:19:35.607525 heartbeat sending heartbeat request 
+2026-06-29 10:19:35.666413 heartbeat online 
+2026-06-29 10:20:35.673149 heartbeat sending heartbeat request 
+2026-06-29 10:20:35.701624 heartbeat online 
+2026-06-29 10:21:35.710902 heartbeat sending heartbeat request 
+2026-06-29 10:21:35.733280 heartbeat online 
+2026-06-29 10:22:35.740608 heartbeat sending heartbeat request 
+2026-06-29 10:22:35.809958 heartbeat online 
+2026-06-29 10:23:35.819545 heartbeat sending heartbeat request 
+2026-06-29 10:23:35.860223 heartbeat online 
+2026-06-29 10:24:35.867363 heartbeat sending heartbeat request 
+2026-06-29 10:24:35.908761 heartbeat online 
+2026-06-29 10:25:35.917002 heartbeat sending heartbeat request 
+2026-06-29 10:25:35.958514 heartbeat online 
+2026-06-29 20:20:55.500458 initiated the registration verification checking registration file 
+2026-06-29 20:20:55.512301 registration status device is registrered 
+2026-06-29 20:21:16.079518 posturing request connection failed 
+2026-06-29 20:22:55.543140 initiated the registration verification checking registration file 
+2026-06-29 20:22:55.543708 registration status device is registrered 
+2026-06-29 20:23:19.543649 posturing request connection failed 
+2026-06-29 20:23:54.572957 posturing request connection failed 
+2026-06-29 20:24:27.969062 posturing request connection failed 
+2026-06-29 20:25:01.761387 posturing request connection failed 
+2026-06-29 20:25:35.667144 initiated the registration verification checking registration file 
+2026-06-29 20:25:35.667463 registration status device is registrered 
+2026-06-29 20:25:59.136337 posturing request connection failed 
+2026-06-29 20:26:31.819900 posturing request connection failed 
+2026-06-29 20:27:04.765797 posturing request connection failed 
+2026-06-29 20:27:33.088135 posturing request connection failed 
+2026-06-29 20:27:40.182402 initiated the registration verification checking registration file 
+2026-06-29 20:27:40.182881 registration status device is registrered 
+2026-06-29 20:28:04.457631 posturing request connection failed 
+2026-06-29 20:28:37.496468 posturing request connection failed 
+2026-06-29 20:29:11.248482 posturing request connection failed 
+2026-06-29 20:29:44.844136 posturing request connection failed 
+2026-06-29 20:30:17.872065 posturing request connection failed 
+2026-06-29 20:30:50.735745 posturing request connection failed 
+2026-06-29 20:31:14.015561 posturing request connection failed 
+2026-06-29 20:31:39.372210 posturing request connection failed 
+2026-06-29 20:32:04.855316 posturing request connection failed 
+2026-06-29 20:32:27.720291 initiated the registration verification checking registration file 
+2026-06-29 20:32:27.720663 registration status device is registrered 
+2026-06-29 20:32:51.012206 posturing request connection failed 
+2026-06-29 20:33:23.914405 posturing request connection failed 
+2026-06-29 20:37:20.777753 initiated the registration verification checking registration file 
+2026-06-29 20:37:20.778124 registration status device is registrered 
+2026-06-29 20:37:44.746674 posturing request connection failed 
+2026-06-29 20:38:17.544015 posturing request connection failed 
+2026-06-29 20:38:50.775045 posturing request connection failed 
+2026-06-29 20:39:06.041902 initiated the registration verification checking registration file 
+2026-06-29 20:39:06.042288 registration status device is registrered 
+2026-06-29 20:39:29.324949 posturing request connection failed 
+2026-06-29 20:40:02.105705 posturing request connection failed 
+2026-06-29 20:40:29.806800 posturing request connection failed 
+2026-06-29 20:41:07.281697 initiated the registration verification checking registration file 
+2026-06-29 20:41:07.282079 registration status device is registrered 
+2026-06-29 20:41:31.199688 posturing request connection failed 
+2026-06-29 20:42:04.214099 posturing request connection failed 
+2026-06-29 20:45:54.840670 initiated the registration verification checking registration file 
+2026-06-29 20:45:54.841005 registration status device is registrered 
+2026-06-29 20:46:19.880662 posturing request connection failed 
+2026-06-29 20:46:53.152590 posturing request connection failed 
+2026-06-29 20:47:26.792049 posturing request connection failed 
+2026-06-29 20:48:00.366737 posturing request connection failed 
+2026-06-29 20:48:33.868125 posturing request connection failed 
+2026-06-29 20:49:06.841313 posturing request connection failed 
+2026-06-29 20:49:39.841842 posturing request connection failed 
+2026-06-29 20:50:13.117167 posturing request connection failed 
+2026-06-29 20:50:46.572705 posturing request connection failed 
+2026-06-29 20:51:20.472850 posturing request connection failed 
+2026-06-29 20:51:47.227337 posturing request connection failed 
+2026-06-29 20:52:20.605881 posturing request connection failed 
+2026-06-29 20:52:54.874629 posturing request connection failed 
+2026-06-29 20:53:28.641103 posturing request connection failed 
+2026-06-29 20:54:01.683015 posturing request connection failed 
+2026-06-29 20:54:29.725210 posturing request connection failed 
+2026-06-29 20:55:02.562795 posturing request connection failed 
+2026-06-29 20:55:32.354277 posturing request send full data 
+2026-06-29 20:55:32.363333 posturing request approved [] 
+2026-06-29 20:55:42.367184 heartbeat sending heartbeat request 
+2026-06-29 20:56:03.482371 initiated the registration verification checking registration file 
+2026-06-29 20:56:03.482982 registration status device is registrered 
+2026-06-29 20:56:22.094784 posturing request send full data 
+2026-06-29 20:56:22.097184 posturing request approved [] 
+2026-06-29 20:56:32.100466 heartbeat sending heartbeat request 
+2026-06-29 21:06:57.192492 initiated the registration verification checking registration file 
+2026-06-29 21:06:57.192855 registration status device is registrered 
+2026-06-29 21:07:10.329611 posturing request send full data 
+2026-06-29 21:07:10.330410 posturing request approved [] 
+2026-06-29 21:07:20.332836 heartbeat sending heartbeat request 
+2026-06-29 21:12:42.785080 initiated the registration verification checking registration file 
+2026-06-29 21:12:42.785455 registration status device is registrered 
+2026-06-29 21:12:56.094842 posturing request send full data 
+2026-06-29 21:12:56.095408 posturing request approved [] 
+2026-06-29 21:13:06.097872 heartbeat sending heartbeat request 
+2026-06-29 21:14:19.151021 initiated the registration verification checking registration file 
+2026-06-29 21:14:19.151423 registration status device is registrered 
+2026-06-29 21:14:31.813023 posturing request send full data 
+2026-06-29 21:14:31.813715 posturing request approved [] 
+2026-06-29 21:15:18.183826 initiated the registration verification checking registration file 
+2026-06-29 21:15:18.184183 registration status device is registrered 
+2026-06-29 21:15:30.708193 posturing request send full data 
+2026-06-29 21:15:30.709072 posturing request approved [] 
+2026-06-29 21:19:00.861120 initiated the registration verification checking registration file 
+2026-06-29 21:19:00.861441 registration status device is registrered 
+2026-06-29 21:19:19.697498 posturing request send full data 
+2026-06-29 21:19:19.699964 posturing request approved [] 
+2026-06-29 21:19:31.092428 heartbeat sending heartbeat request 
+2026-06-29 21:20:05.167771 initiated the registration verification checking registration file 
+2026-06-29 21:20:05.168187 registration status device is registrered 
+2026-06-29 21:20:24.522833 posturing request send full data 
+2026-06-29 21:20:24.524843 posturing request approved [] 
+2026-06-29 21:20:35.934142 heartbeat sending heartbeat request 
+2026-06-29 21:24:30.711274 initiated the registration verification checking registration file 
+2026-06-29 21:24:30.711961 registration status device is registrered 
+2026-06-29 21:24:49.652372 posturing request send full data 
+2026-06-29 21:24:49.654653 posturing request approved [] 
+2026-06-29 21:25:01.076760 heartbeat sending heartbeat request 
+2026-06-29 21:25:01.097620 heartbeat online 
+2026-06-29 21:26:02.339389 heartbeat sending heartbeat request 
+2026-06-29 21:26:02.358635 heartbeat online 
+2026-06-29 21:26:46.178822 initiated the registration verification checking registration file 
+2026-06-29 21:26:46.179199 registration status device is registrered 
+2026-06-29 21:27:04.882714 posturing request send full data 
+2026-06-29 21:27:04.884415 posturing request approved [] 
+2026-06-29 21:27:16.406454 heartbeat sending heartbeat request 
+2026-06-29 21:27:16.438380 heartbeat reset the connection 
+2026-06-29 21:28:35.755147 posturing request send full data 
+2026-06-29 21:28:35.755852 posturing request approved [] 
+2026-06-29 21:28:47.141551 heartbeat sending heartbeat request 
+2026-06-29 21:28:47.166100 heartbeat online 
+2026-06-29 21:29:48.430014 heartbeat sending heartbeat request 
+2026-06-29 21:29:48.455138 heartbeat online 
+2026-06-29 21:30:49.637495 heartbeat sending heartbeat request 
+2026-06-29 21:30:49.657901 heartbeat reset the connection 
+2026-06-29 21:32:07.143822 posturing request send full data 
+2026-06-29 21:32:07.146001 posturing request approved [] 
+2026-06-29 21:32:18.810807 heartbeat sending heartbeat request 
+2026-06-29 21:32:18.818570 heartbeat online 
+2026-06-29 21:33:20.076310 heartbeat sending heartbeat request 
+2026-06-29 21:33:20.095473 heartbeat online 
+2026-06-29 21:34:21.321561 heartbeat sending heartbeat request 
+2026-06-29 21:34:21.345389 heartbeat online 
+2026-06-29 21:35:22.572302 heartbeat sending heartbeat request 
+2026-06-29 21:35:22.609140 heartbeat online 
+2026-06-29 21:36:23.912930 heartbeat sending heartbeat request 
+2026-06-29 21:36:23.941086 heartbeat online 
+2026-06-29 21:37:25.434512 heartbeat sending heartbeat request 
+2026-06-29 21:37:25.462167 heartbeat online 
+2026-06-29 21:38:26.839701 heartbeat sending heartbeat request 
+2026-06-29 21:38:26.860233 heartbeat online 
+2026-06-29 21:39:28.064268 heartbeat sending heartbeat request 
+2026-06-29 21:39:28.079699 heartbeat online 
+2026-06-29 21:40:29.382412 heartbeat sending heartbeat request 
+2026-06-29 21:40:29.408151 heartbeat online 
+2026-06-30 22:34:44.235036 initiated the registration verification checking registration file 
+2026-06-30 22:34:44.236004 registration status device is registrered 
+2026-06-30 22:35:04.264339 posturing request send full data 
+2026-06-30 22:35:04.265694 posturing request approved [] 
+2026-06-30 22:35:15.908071 heartbeat sending heartbeat request 
+2026-06-30 22:35:15.951936 heartbeat online 
+2026-06-30 22:37:59.341955 initiated the registration verification checking registration file 
+2026-06-30 22:37:59.342443 registration status device is registrered 
+2026-06-30 22:38:17.243541 posturing request send full data 
+2026-06-30 22:38:17.244699 posturing request approved [] 
+2026-06-30 22:38:28.912531 heartbeat sending heartbeat request 
+2026-06-30 22:38:28.945164 heartbeat online 
+2026-06-30 22:44:55.873302 initiated the registration verification checking registration file 
+2026-06-30 22:44:55.873697 registration status device is registrered 
+2026-06-30 22:45:13.001418 posturing request send full data 
+2026-06-30 22:49:15.820685 initiated the registration verification checking registration file 
+2026-06-30 22:49:15.821193 registration status device is registrered 
+2026-06-30 22:49:33.935416 posturing request send full data 
+2026-06-30 22:49:58.040282 initiated the registration verification checking registration file 
+2026-06-30 22:49:58.040766 registration status device is registrered 
+2026-06-30 22:50:17.658993 posturing request send full data 
+2026-06-30 22:53:04.904731 initiated the registration verification checking registration file 
+2026-06-30 22:53:04.905366 registration status device is registrered 
+2026-06-30 22:53:26.129458 posturing request send full data 
+2026-06-30 22:53:26.131003 posturing request approved [] 
+2026-06-30 22:53:37.953330 heartbeat sending heartbeat request 
+2026-06-30 22:53:37.973308 heartbeat online 
+2026-06-30 22:54:39.570197 heartbeat sending heartbeat request 
+2026-06-30 22:54:39.610858 heartbeat online 
+2026-06-30 22:55:41.453673 heartbeat sending heartbeat request 
+2026-06-30 22:55:41.488212 heartbeat online 
+2026-06-30 22:56:42.883579 heartbeat sending heartbeat request 
+2026-06-30 22:56:42.903209 heartbeat online 
+2026-06-30 22:57:44.564532 heartbeat sending heartbeat request 
+2026-06-30 22:57:44.595532 heartbeat online 
+2026-06-30 22:58:46.071652 heartbeat sending heartbeat request 
+2026-06-30 22:58:46.090736 heartbeat online 
+2026-06-30 22:59:47.769706 heartbeat sending heartbeat request 
+2026-06-30 22:59:47.795839 heartbeat online 
+2026-06-30 23:28:16.399160 initiated the registration verification checking registration file 
+2026-06-30 23:28:16.401144 registration status device is registrered 
+2026-06-30 23:28:34.387154 posturing request send full data 
+2026-06-30 23:28:34.389550 posturing request approved [] 
+2026-06-30 23:28:46.078438 heartbeat sending heartbeat request 
+2026-06-30 23:28:46.114729 heartbeat online 
+2026-06-30 23:29:44.862134 initiated the registration verification checking registration file 
+2026-06-30 23:29:44.862659 registration status device is registrered 
+2026-06-30 23:30:02.326880 posturing request send full data 
+2026-06-30 23:30:02.329141 posturing request approved [] 
+2026-06-30 23:30:13.834945 heartbeat sending heartbeat request 
+2026-06-30 23:30:13.859841 heartbeat online 
+2026-06-30 23:31:15.339308 heartbeat sending heartbeat request 
+2026-06-30 23:31:15.369800 heartbeat online 
+2026-06-30 23:31:51.773930 initiated the registration verification checking registration file 
+2026-06-30 23:31:51.774513 registration status device is registrered 
+2026-06-30 23:32:10.538420 posturing request send full data 
+2026-06-30 23:32:10.540187 posturing request approved [] 
+2026-06-30 23:32:22.355460 heartbeat sending heartbeat request 
+2026-06-30 23:32:22.380116 heartbeat online 
+2026-06-30 23:33:23.775025 heartbeat sending heartbeat request 
+2026-06-30 23:33:23.794382 heartbeat online 
+2026-06-30 23:35:37.246463 initiated the registration verification checking registration file 
+2026-06-30 23:35:37.247335 registration status device is registrered 
+2026-06-30 23:35:56.424326 posturing request send full data 
+2026-06-30 23:35:56.425252 posturing request approved [] 
+2026-06-30 23:36:07.983404 heartbeat sending heartbeat request 
+2026-06-30 23:36:08.007598 heartbeat online 
+2026-06-30 23:45:54.943903 initiated the registration verification checking registration file 
+2026-06-30 23:45:54.944329 registration status device is registrered 
+2026-06-30 23:46:13.007498 posturing request send full data 
+2026-06-30 23:46:13.008913 posturing request approved [] 
+2026-06-30 23:46:24.623959 heartbeat sending heartbeat request 
+2026-06-30 23:46:24.643706 heartbeat online 
+2026-06-30 23:47:26.536832 heartbeat sending heartbeat request 
+2026-06-30 23:47:26.570300 heartbeat online 
+2026-06-30 23:48:20.131084 initiated the registration verification checking registration file 
+2026-06-30 23:48:20.131866 registration status device is registrered 
+2026-06-30 23:48:37.963277 posturing request send full data 
+2026-06-30 23:48:37.967501 posturing request approved [] 
+2026-06-30 23:48:49.634710 heartbeat sending heartbeat request 
+2026-06-30 23:48:49.666141 heartbeat online 
+2026-06-30 23:49:51.373809 heartbeat sending heartbeat request 
+2026-06-30 23:49:51.401416 heartbeat online 
+2026-06-30 23:50:52.983196 heartbeat sending heartbeat request 
+2026-06-30 23:50:53.021038 heartbeat online 
+2026-06-30 23:51:26.130730 initiated the registration verification checking registration file 
+2026-06-30 23:51:26.131209 registration status device is registrered 
+2026-06-30 23:51:42.723827 posturing request send full data 
+2026-06-30 23:51:42.725722 posturing request approved [] 
+2026-06-30 23:51:54.586525 heartbeat sending heartbeat request 
+2026-06-30 23:51:54.595254 heartbeat online 
+2026-06-30 23:52:38.037769 initiated the registration verification checking registration file 
+2026-06-30 23:52:38.038189 registration status device is registrered 
+2026-06-30 23:52:56.603251 posturing request send full data 
+2026-06-30 23:52:56.604029 posturing request approved [] 
+2026-06-30 23:53:08.111637 heartbeat sending heartbeat request 
+2026-06-30 23:53:08.138922 heartbeat online 
+2026-06-30 23:54:09.518032 heartbeat sending heartbeat request 
+2026-06-30 23:54:09.527911 heartbeat online 
+2026-06-30 23:55:11.326774 heartbeat sending heartbeat request 
+2026-06-30 23:55:13.349493 heartbeat connection failed 
+2026-06-30 23:56:20.112240 initiated the registration verification checking registration file 
+2026-06-30 23:56:20.112701 registration status device is registrered 
+2026-06-30 23:56:37.740355 posturing request send full data 
+2026-06-30 23:56:37.741195 posturing request approved [] 
+2026-06-30 23:56:49.292847 heartbeat sending heartbeat request 
+2026-06-30 23:56:49.315769 heartbeat online 
+2026-06-30 23:57:50.937401 heartbeat sending heartbeat request 
+2026-06-30 23:57:50.962493 heartbeat online 
+2026-06-30 23:58:52.638893 heartbeat sending heartbeat request 
+2026-06-30 23:58:52.676088 heartbeat online 
+2026-06-30 23:59:54.192079 heartbeat sending heartbeat request 
+2026-06-30 23:59:54.222030 heartbeat online 
+2026-07-01 00:00:56.324908 heartbeat sending heartbeat request 
+2026-07-01 00:00:56.363379 heartbeat online 
+2026-07-01 00:03:05.726541 initiated the registration verification checking registration file 
+2026-07-01 00:03:05.727019 registration status device is registrered 
+2026-07-01 00:03:25.191791 posturing request send full data 
+2026-07-01 00:03:25.192783 posturing request approved [] 
+2026-07-01 00:03:36.763285 heartbeat sending heartbeat request 
+2026-07-01 00:03:36.773594 heartbeat online 
+2026-07-01 00:04:38.209258 heartbeat sending heartbeat request 
+2026-07-01 00:04:38.237028 heartbeat online 
+2026-07-01 00:05:39.872406 heartbeat sending heartbeat request 
+2026-07-01 00:05:39.906352 heartbeat online 
+2026-07-01 00:06:41.723781 heartbeat sending heartbeat request 
+2026-07-01 00:06:41.752864 heartbeat online 
+2026-07-01 00:07:43.405818 heartbeat sending heartbeat request 
+2026-07-01 00:07:43.429976 heartbeat online 
+2026-07-01 00:08:00.024924 initiated the registration verification checking registration file 
+2026-07-01 00:08:00.025408 registration status device is registrered 
+2026-07-01 00:08:19.256910 posturing request send full data 
+2026-07-01 00:08:19.257931 posturing request approved [] 
+2026-07-01 00:08:30.936880 heartbeat sending heartbeat request 
+2026-07-01 00:08:30.967970 heartbeat online 
+2026-07-01 00:09:32.609091 heartbeat sending heartbeat request 
+2026-07-01 00:09:32.644870 heartbeat online 
+2026-07-01 00:20:02.024053 initiated the registration verification checking registration file 
+2026-07-01 00:20:02.024507 registration status device is registrered 
+2026-07-01 00:20:21.615685 posturing request send full data 
+2026-07-01 00:20:21.616601 posturing request approved [] 
+2026-07-01 00:20:33.625892 heartbeat sending heartbeat request 
+2026-07-01 00:20:33.654011 heartbeat online 
+2026-07-01 00:21:35.072183 heartbeat sending heartbeat request 
+2026-07-01 00:21:37.108623 heartbeat connection failed 
+2026-07-01 00:21:57.589171 posturing request connection failed 
+2026-07-01 00:22:27.254257 posturing request connection failed 
+2026-07-01 00:22:57.628121 posturing request connection failed 
+2026-07-11 22:57:15.995825 initiated the registration verification checking registration file 
+2026-07-11 22:57:15.997146 registration status device is registrered 
+2026-07-11 22:57:50.334718 initiated the registration verification checking registration file 
+2026-07-11 22:57:50.335195 registration status device is registrered 
+2026-07-11 22:57:59.411832 posturing request connection failed 
+2026-07-11 22:58:17.400614 posturing request connection failed 
+2026-07-11 23:00:21.200630 initiated the registration verification checking registration file 
+2026-07-11 23:00:21.201111 registration status device is registrered 
+2026-07-11 23:00:30.579413 posturing request connection failed 
+2026-07-11 23:00:48.688605 posturing request connection failed 
+2026-07-11 23:01:07.823468 posturing request connection failed 
+2026-07-11 23:01:26.377889 posturing request connection failed 
+2026-07-11 23:01:44.796281 posturing request connection failed 
+2026-07-11 23:02:18.356993 posturing request connection failed 
+2026-07-11 23:02:51.809317 posturing request connection failed 
+2026-07-11 23:03:25.396350 posturing request connection failed 
+2026-07-11 23:03:58.637699 posturing request connection failed 
+2026-07-11 23:04:03.413735 initiated the registration verification checking registration file 
+2026-07-11 23:04:03.414200 registration status device is registrered 
+2026-07-11 23:04:27.107764 posturing request connection failed 
+2026-07-17 23:22:49.607919 initiated the registration verification checking registration file 
+2026-07-17 23:22:49.609154 registration status device is registrered 
+2026-07-17 23:23:02.423535 posturing request connection failed 
+2026-07-17 23:23:23.997775 posturing request connection failed 
+2026-07-17 23:23:45.381700 posturing request connection failed 
+2026-07-17 23:24:04.028379 initiated the registration verification checking registration file 
+2026-07-17 23:24:04.029191 registration status device is registrered 
+2026-07-17 23:24:14.572822 posturing request connection failed 
+2026-07-17 23:24:36.352470 posturing request connection failed 
+2026-07-17 23:24:58.084714 posturing request connection failed 
+2026-07-17 23:25:19.785345 posturing request connection failed 
+2026-07-17 23:25:54.385774 initiated the registration verification checking registration file 
+2026-07-17 23:25:54.386343 registration status device is registrered 
+2026-07-17 23:26:04.554405 posturing request send full data 
+2026-07-17 23:26:04.555260 posturing request approved [] 
+2026-07-17 23:26:41.332960 initiated the registration verification checking registration file 
+2026-07-17 23:26:41.333778 registration status device is registrered 
+2026-07-17 23:26:52.352677 posturing request send full data 
+2026-07-17 23:26:52.353612 posturing request approved [] 
+2026-07-17 23:27:02.966073 heartbeat sending heartbeat request 
+2026-07-17 23:27:03.068139 heartbeat online 
