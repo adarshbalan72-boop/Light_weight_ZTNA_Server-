@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<configuration>
+    <integration>
+        <network_device>
+            <device_name>firewall-1</device_name>
+            <device_type>FGT</device_type>
+            <ip>172.20.10.5</ip>
+            <port>443</port>
+            <token>5ghpbxbgwQrj173Hd68bggdf0kkq0h</token>
+        </network_device>
+        <network_device>
+            <device_name>core switch</device_name>
+            <device_type>aruba_aoscx</device_type>
+            <ip>172.20.10.7</ip>
+            <username>admin</username>
+            <password>Admin@123</password>
+        </network_device>
+        <user_database>
+            <database_type>LDAP</database_type>
+            <ip>172.20.10.4</ip>
+            <username>administrator@adarsh-project</username>
+            <password>Ad@0887</password>
+        </user_database>
+    </integration>
+    <allowed_domain_list>
+        <allowed_domain>
+            <domain>WORKGROUP</domain>
+        </allowed_domain>
+        <allowed_domain>
+            <domain>ADARSH-PROJECT.LAB</domain>
+        </allowed_domain>
+    </allowed_domain_list>
+    <allowed_os_list>
+        <allowed_os>
+            <os>Microsoft Windows 11 Pro</os>
+            <version>10.0.26200</version>
+        </allowed_os>
+        <allowed_os>
+            <os>Microsoft Windows 10 Pro</os>
+            <version>10.0.26200</version>
+        </allowed_os>
+    </allowed_os_list>
+    <group_list>
+        <group_name>
+            <name>Normal Users</name>
+            <permission>firewall-1</permission>
+        </group_name>
+        <group_name>
+            <name>Full Access</name>
+        </group_name>
+    </group_list>
+    <local_user_list>
+        <local_user>
+            <username>administrator</username>
+            <group>Normal Users</group>
+        </local_user>
+        <local_user>
+            <username>Dell</username>
+            <group>Normal Users</group>
+        </local_user>
+        <local_user>
+            <username>Adarsh</username>
+            <group>Normal Users</group>
+        </local_user>
+        <local_user>
+            <username>Kali</username>
+            <group>Normal Users</group>
+        </local_user>
+    </local_user_list>
+    <black_list_app>
+        <app>Whatsapp</app>
+        <app>facebook</app>
+        <app>AnyDesk</app>
+    </black_list_app>
+    <external_users>
+        <ldap_users>
+        </ldap_users>
+        <ldap_users>
+            <username>user1</username>
+            <group>Normal Users</group>
+        </ldap_users>
+        <ldap_users>
+            <username>user2</username>
+            <group>Normal Users</group>
+        </ldap_users>
+        <ldap_users>
+            <username>user3</username>
+            <group>Full access</group>
+        </ldap_users>
+    </external_users>
+    <reg_endpoint_details>
+        <endpoint>
+            <username>Dell-1</username>
+            <system>DESKTOP-286DI61-1</system>
+            <OS>Microsoft Windows 11 Pro</OS>
+            <UID>93f920f3-77cf-4ef4-98d8-219b4e097826</UID>
+            <status>registraed</status>
+            <last_update>2026-06-08T22:58:16.732005</last_update>
+            <last_ip>127.0.0.2</last_ip>
+            <last_group>default</last_group>
+            <device_status>offline</device_status>
+        </endpoint>
+        <endpoint>
+            <username>Dell-2</username>
+            <system>DESKTOP-286DI61-2</system>
+            <OS>Microsoft Windows 11 Pro</OS>
+            <UID>93f920f3-77cf-4ef4-98d8-219b4e097827</UID>
+            <status>Pending</status>
+            <last_update>2026-06-08T22:57:16.732005</last_update>
+            <last_ip>127.0.0.3</last_ip>
+            <last_group>default</last_group>
+            <device_status>offline</device_status>
+        </endpoint>
+        <endpoint>
+            <username>Dell</username>
+            <domain>WORKGROUP</domain>
+            <system>DESKTOP-286DI61</system>
+            <OS>Microsoft Windows 11 Pro</OS>
+            <UID>ebd76705-b6cc-4ee2-afe9-27f41d5113e9</UID>
+            <status>registered</status>
+            <last_ip>127.0.0.1</last_ip>
+            <last_update>2026-07-17T23:27:03.061710</last_update>
+            <device_status>online</device_status>
+            <last_group>Normal Users</last_group>
+        </endpoint>
+    </reg_endpoint_details>
+</configuration>
