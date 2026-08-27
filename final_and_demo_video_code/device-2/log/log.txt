@@ -1,0 +1,97 @@
+2026-06-13 03:11:16.208757 127.0.0.1 new request no UID userdata recived 
+2026-06-13 03:11:16.212699 127.0.0.1 assign uid c4393d04-09ea-4cc0-a015-3eade044d834 request added to the config file 
+2026-06-13 03:11:16.257204 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 user request for status update and current statuspending 
+2026-06-13 03:11:26.280698 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 user request for status update and current statuspending 
+2026-06-13 03:11:36.299768 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 user request for status update and current statuspending 
+2026-06-13 03:11:46.324319 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 user request for status update and current statuspending 
+2026-06-13 03:11:56.345706 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 user request for status update and current statuspending 
+2026-06-13 03:12:06.366146 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 user request for status update and current statusregistered 
+2026-06-13 03:12:23.906140 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-13 03:12:23.924887 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'approved', 'reason': []} 
+2026-06-13 03:12:36.603126 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat received 
+2026-06-13 03:12:36.605692 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat updated 
+2026-06-13 03:13:36.628728 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat received 
+2026-06-13 03:13:36.631026 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat updated 
+2026-06-13 03:14:36.664788 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat received 
+2026-06-13 03:14:36.666106 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat updated 
+2026-06-13 04:37:01.684033 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 device access has been revoked and change change to status to offline 
+2026-06-14 00:54:20.511831 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 00:55:11.783183 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 00:55:11.804229 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': []} 
+2026-06-14 00:55:38.070242 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 00:55:38.091213 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': []} 
+2026-06-14 00:56:05.753091 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 00:56:05.777137 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': []} 
+2026-06-14 00:56:33.251264 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 00:56:33.275316 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': []} 
+2026-06-14 00:57:14.798971 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 00:57:14.830536 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': []} 
+2026-06-14 00:57:40.976647 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 00:57:40.998938 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': []} 
+2026-06-14 01:00:35.058890 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 01:00:35.089511 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': []} 
+2026-06-14 01:01:19.823292 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 01:01:19.847345 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'approved', 'reason': []} 
+2026-06-14 01:01:51.818530 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 01:01:51.838142 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'approved', 'reason': []} 
+2026-06-14 01:02:04.406138 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat received 
+2026-06-14 01:02:04.407550 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat updated 
+2026-06-14 01:03:04.416415 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat received 
+2026-06-14 01:03:04.418039 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat updated 
+2026-06-14 01:04:04.437082 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat received 
+2026-06-14 01:04:04.439055 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat updated 
+2026-06-14 01:05:04.457486 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat received 
+2026-06-14 01:05:04.460339 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat updated 
+2026-06-14 01:06:55.932339 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 01:06:55.951697 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'approved', 'reason': []} 
+2026-06-14 01:07:08.830991 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat received 
+2026-06-14 01:07:08.833355 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat updated 
+2026-06-14 01:08:08.851164 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat received 
+2026-06-14 01:08:08.853153 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat updated 
+2026-06-14 22:12:30.148219 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 22:12:30.552312 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'approved', 'reason': []} 
+2026-06-14 22:14:19.525754 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 22:14:20.707790 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'approved', 'reason': []} 
+2026-06-14 22:14:33.136214 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat received 
+2026-06-14 22:14:33.137737 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat updated 
+2026-06-14 22:15:40.178739 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 22:15:40.718554 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'approved', 'reason': ['os not accepted, ']} 
+2026-06-14 22:17:07.267622 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 22:17:07.686432 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'approved', 'reason': ['os not accepted, ']} 
+2026-06-14 22:17:20.192649 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat received 
+2026-06-14 22:17:20.194706 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat updated 
+2026-06-14 22:21:08.777392 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 22:21:09.166952 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': []} 
+2026-06-14 22:22:38.942170 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 22:22:39.348819 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': []} 
+2026-06-14 22:23:21.912387 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 22:23:22.300602 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': []} 
+2026-06-14 22:23:47.113067 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 22:23:47.445355 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': []} 
+2026-06-14 22:25:50.657193 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 22:25:51.174408 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'approved', 'reason': []} 
+2026-06-14 22:26:27.037946 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 22:26:27.428606 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': ['os not accepted, ']} 
+2026-06-14 22:26:51.479368 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 22:26:51.824155 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': ['os not accepted, ']} 
+2026-06-14 22:28:01.089425 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 22:28:01.509490 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'approved', 'reason': []} 
+2026-06-14 22:28:13.993618 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat received 
+2026-06-14 22:28:13.999586 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 heart beat updated 
+2026-06-14 22:28:52.437968 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 22:28:52.849769 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'approved', 'reason': []} 
+2026-06-14 22:29:31.821257 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 22:29:32.204169 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': ['os version not accepted, ']} 
+2026-06-14 22:30:58.039945 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 22:30:58.522137 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': ['os version not accepted, ']} 
+2026-06-14 22:32:13.907252 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-14 22:32:14.332363 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': ['AV status not acceptable, ']} 
+2026-06-21 02:32:53.969262 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-21 02:35:10.144385 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-21 02:35:10.734710 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': ['os not accepted, ']} 
+2026-06-21 02:35:39.992306 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-21 02:35:41.856060 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'deny', 'reason': ['os not accepted, ']} 
+2026-06-21 02:36:56.220614 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 userdata recived 
+2026-06-21 02:36:56.858665 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 {'status': 'approved', 'reason': []} 
+2026-06-21 23:29:47.363204 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 device access has been revoked and change change to status to offline 
+2026-06-21 23:31:43.693580 127.0.0.1 c4393d04-09ea-4cc0-a015-3eade044d834 device access has been revoked and change change to status to offline 
