@@ -1,0 +1,64 @@
+{
+    "UID": "9f46528c-9582-41a5-a23c-a79d5da104dc",
+    "application_details": [
+        "",
+        "DisplayName                                                    DisplayVersion Publisher   ",
+        "-----------                                                    -------------- ---------   ",
+        "                                                                                          ",
+        "                                                                              Microsoft...",
+        "Notepad++ (64-bit x64)                                         8.9.6.2        Notepad++...",
+        "                                                                                          ",
+        "Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.40.33816    14.40.33816    Microsoft...",
+        "Microsoft Visual C++ 2022 X64 Additional Runtime - 14.40.33816 14.40.33816    Microsoft...",
+        "VMware Tools                                                   13.1.0.0       Broadcom ...",
+        "Microsoft Teams Meeting Add-in for Microsoft Office            1.25.24601     Microsoft   ",
+        "",
+        ""
+    ],
+    "os_version_details": [
+        "OS Name: Microsoft Windows 11 Enterprise",
+        "OS Version: 10.0.26100"
+    ],
+    "antivirus_details": [
+        "AV Name: Windows Defender",
+        "AV State: 397568"
+    ],
+    "network_details": [
+        "",
+        "Windows IP Configuration",
+        "",
+        "   Host Name . . . . . . . . . . . . : device-1",
+        "   Primary Dns Suffix  . . . . . . . : adarsh-project.lab",
+        "   Node Type . . . . . . . . . . . . : Hybrid",
+        "   IP Routing Enabled. . . . . . . . : No",
+        "   WINS Proxy Enabled. . . . . . . . : No",
+        "   DNS Suffix Search List. . . . . . : adarsh-project.lab",
+        "",
+        "Ethernet adapter Ethernet0:",
+        "",
+        "   Connection-specific DNS Suffix  . : ",
+        "   Description . . . . . . . . . . . : Intel(R) 82574L Gigabit Network Connection",
+        "   Physical Address. . . . . . . . . : 00-0C-29-79-2E-49",
+        "   DHCP Enabled. . . . . . . . . . . : Yes",
+        "   Autoconfiguration Enabled . . . . : Yes",
+        "   Link-local IPv6 Address . . . . . : fe80::8b86:71b9:baab:3cd5%15(Preferred) ",
+        "   IPv4 Address. . . . . . . . . . . : 10.100.10.3(Preferred) ",
+        "   Subnet Mask . . . . . . . . . . . : 255.255.255.0",
+        "   Lease Obtained. . . . . . . . . . : Sunday, June 28, 2026 10:43:13 PM",
+        "   Lease Expires . . . . . . . . . . : Sunday, July 5, 2026 10:43:13 PM",
+        "   Default Gateway . . . . . . . . . : 10.100.10.1",
+        "   DHCP Server . . . . . . . . . . . : 10.100.10.1",
+        "   DHCPv6 IAID . . . . . . . . . . . : 251661353",
+        "   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-30-AC-D3-B4-08-00-27-31-6A-FA",
+        "   DNS Servers . . . . . . . . . . . : 10.100.10.2",
+        "                                       8.8.8.8",
+        "                                       8.8.4.4",
+        "   NetBIOS over Tcpip. . . . . . . . : Enabled"
+    ],
+    "user_details": [
+        "System Name: DEVICE-1",
+        "User Name: Administrator",
+        "Write-Output",
+        "SID: S-1-5-21-4140117489-2153129527-1854930041-500"
+    ]
+}
