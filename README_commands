@@ -1,0 +1,69 @@
+ZTNA SERVER COMMAND REFERENCE
+
+HELP COMMANDS
+
+help 			-Use: Displays the main available command categories.
+show ?	 		-Use: Displays all available show commands.
+
+config ?		-Use: Displays all available configuration commands.
+
+config add ?		-Use: Displays commands available for adding configuration.
+
+config approve ?	-Use: Displays the command format for device approval.
+
+config reject ?		-Use: Displays the command format for device rejection.
+
+config intergration ?	-Use: Displays the available integration types.
+
+report ?		-Use: Displays the available report commands.
+
+SHOW COMMANDS
+
+
+
+show current-rule	-Use: Displays the current ZTNA security rules, including allowed operating systems and blacklisted applications.
+
+show active-device	-Use: Displays all registered devices that are currently online.
+
+show all-device		-Use: Displays all registered devices with their system name, UID, OS, registration status, IP address, device status and username.
+
+show pending-device	-Use: Displays devices that are currently waiting for registration approval.
+
+show all-users		-Use: Displays all local users and external LDAP users along with their assigned groups and user type.
+
+show intergration	-Use: Displays all configured network device and user database integrations.
+
+
+CONFIGURATION COMMANDS
+
+
+config add os		-Use: Adds an operating system and its minimum allowed version to the allowed OS list.
+
+config add local-user	-Use: Adds a local user and assigns the user to a configured group.
+
+config add group	-Use: Creates a new user group and assigns permitted network devices to the group.
+
+config add blacklist-app -Use: Adds an application to the blacklist.
+
+
+DEVICE MANAGEMENT COMMANDS
+
+
+config approve		-Use: Approves a pending device using its Device UID.
+
+config reject		-Use: Rejects a device using its Device UID.
+
+
+INTEGRATION COMMANDS
+
+
+config intergration FortiGate 	-Use: Adds a FortiGate firewall integration using the firewall IP/hostname, management port and API token.
+
+config intergration Aruba-CXOS	-Use: Adds an Aruba CX switch integration using the switch IP/hostname, SSH username and SSH password.
+
+config intergration LDAP	-Use: Adds an LDAP server integration for external user authentication and group information.
+
+# REPORT COMMANDS
+
+report device-report		-Use: Displays the detailed endpoint report for a specified Device UID.The report displays User and Host Details , Operating ,System Details, Antivirus Details, Application Details
+
